@@ -6,9 +6,10 @@ We provided also the datasets used in the evaluation and the scripts to generate
 
 ## Usage
 These are the available classes:
-	* ArtificialDatasetTest: this class executes the test with the pseudo-artificial datasets 
-	* MainTFSP: main class to execute the algorithms proposed in the paper
-	* NetflixDatasets: this class generates the two netflix datasets
-	* RealDatasetTest: this class executes the test with the real datasets
-	* SparkTFSP: this class contains the main methods developed in the paper
-	* Utils: this class contains useful support method
+
+	* 	ArtificialDatasetTest: this class executes the test with the pseudo-artificial datasets 
+	* 	MainTFSP: main class to execute the algorithms proposed in the paper
+	* 	NetflixDatasets: this class generates the two netflix datasets
+	* 	RealDatasetTest: this class executes the test with the real datasets
+	* 	SparkTFSP: this class contains the main methods developed in the paper
+	* 	Utils: this class contains useful support method
